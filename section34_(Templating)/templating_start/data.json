@@ -1,0 +1,59 @@
+{
+	"soccer": {
+		"name": "Soccer",
+		"subscribers": 800000,
+		"description": "The football subreddit. News, results and discussion",
+		"posts": [
+			{
+				"title": "Marten de Roon to make pizza for more than 1,000 pe",
+				"author": "joeextreme"
+			},
+			{
+				"title": "Stephan Lichtsteiner has retired from professional",
+				"author": "odd person"
+			},
+			{
+				"title": "OFFICIAL: Dani Parejo signs for Villareal.",
+				"author": "joeextreme"
+			}
+		]
+	},
+	"chickens": {
+		"name": "Chickens",
+		"subscribers": 23956,
+		"description": "A place to post your photos, video and questions abou",
+		"posts": [
+			{
+				"title": "Naughty chicken hid under a shed for 3 weeks and ca",
+				"author": "joeextreme",
+				"img": "https://preview.redd.it/sja35au7whd51.jpg?width=640&c"
+			},
+			{
+				"title": "Had to kill my first chicken today. Does it get any",
+				"author": "sad boi"
+			},
+			{
+				"title": "My five year old chicken set and hatched one baby.",
+				"author": "tammythetiger",
+				"img": "https://preview.redd.it/lervkuis3me51.jpg?width=640&c"
+			}
+		]
+	},
+	"mightyharvest": {
+		"name": "Mighty Harvest",
+		"subscribers": 44002,
+		"description": "Feeding many villages and village idiots for 10s of c",
+		"posts": [
+			{
+				"title": "My first meyer lemon ripened today. Im so proud of",
+				"author": "proudmamma",
+				"img": "https://preview.redd.it/1bz6we4j54941.jpg?width=640&c"
+			},
+			{
+				"title": "I think I overestimated the harvest basket size I r",
+				"author": "grower123",
+				"img": "https://preview.redd.it/4h99osd25i351.jpg?width=640&c"
+			}
+		]
+	}
+}
